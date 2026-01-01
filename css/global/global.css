@@ -3,8 +3,8 @@
 
 :root {
 	/* Высота/ширина, контейнеры и т д  */
-	--container-width: 0px;
-	--container-padding-x: 15px;
+	--container-width: 1160px;
+	--container-padding-x: 40px;
 
 	/* Шрифты */
 	--font-family: 'Roboto';
