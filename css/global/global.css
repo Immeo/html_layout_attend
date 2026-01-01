@@ -12,6 +12,7 @@
 	--primary-color: #1f4d36;
 	--second-color: #fff;
 	--third-color: #f1eaba;
+	--fourth-color: #f2f4ea;
 }
 
 .container {
@@ -23,6 +24,7 @@
 body {
 	font-family: var(--font-family);
 	font-weight: 400;
+	line-height: 1.3;
 	color: var(--primary-color);
 	background-color: var(--second-color);
 }
