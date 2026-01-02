@@ -2,3 +2,11 @@
 	padding: 100px 0;
 	background: var(--primary-color);
 }
+
+.section_power {
+	display: flex;
+	margin-top: 250px;
+	gap: 32px 0;
+	flex-direction: column;
+	align-items: center;
+}

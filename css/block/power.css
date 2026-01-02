@@ -1,0 +1,18 @@
+.power__subTitle {
+	padding: 2px 8px;
+	font-size: 12px;
+	line-height: 1.6;
+	border-radius: 4px;
+	background: var(--third-color);
+}
+
+.power__title {
+	font-size: 92px;
+	line-height: 1;
+	text-align: center;
+}
+.power__desc {
+	font-size: 20px;
+	line-height: 1.2;
+	text-align: center;
+}
