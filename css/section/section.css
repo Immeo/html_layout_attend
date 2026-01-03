@@ -10,3 +10,9 @@
 	flex-direction: column;
 	align-items: center;
 }
+
+.section_faqs {
+	display: flex;
+	margin-top: 250px;
+	justify-content: space-between;
+}
