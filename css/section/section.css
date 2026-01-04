@@ -22,3 +22,11 @@
 	background: var(--primary-color);
 	color: var(--fourth-color);
 }
+
+.section_best {
+	display: flex;
+	margin-top: 250px;
+	gap: 32px 0;
+	flex-direction: column;
+	align-items: center;
+}
