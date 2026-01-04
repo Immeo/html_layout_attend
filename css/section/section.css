@@ -16,3 +16,9 @@
 	margin-top: 250px;
 	justify-content: space-between;
 }
+
+.section_pluses {
+	padding: 100px 0;
+	background: var(--primary-color);
+	color: var(--fourth-color);
+}
