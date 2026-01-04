@@ -1,0 +1,62 @@
+.join {
+	display: flex;
+	justify-content: space-between;
+}
+
+.join__funchional {
+	display: flex;
+	max-width: 494px;
+	gap: 110px 0;
+	flex-direction: column;
+}
+
+.join__title {
+	font-size: 79px;
+	line-height: 1;
+}
+
+.join__form {
+	display: flex;
+	gap: 24px 0;
+	flex-direction: column;
+	align-items: flex-start;
+}
+
+.join__input {
+	width: 100%;
+	font-size: 18px;
+	border: none;
+	border-bottom: 1px solid #000;
+	background: transparent;
+}
+
+.join__who {
+	font-size: 23px;
+}
+
+.join__whos {
+	display: flex;
+	gap: 16px;
+	flex-wrap: wrap;
+}
+
+.join__label {
+	padding: 6px 23px;
+	font-size: 17px;
+	border-radius: 200px;
+	line-height: 1.6;
+	white-space: nowrap;
+	text-align: center;
+	transition: background-color, color 0.2s ease;
+	border: 1px solid #000;
+	background-color: transparent;
+	color: var(--primary-color);
+	cursor: pointer;
+}
+
+.join__submit {
+	width: 175px;
+	height: 52px;
+	border-radius: 100px;
+	background: var(--primary-color);
+}
